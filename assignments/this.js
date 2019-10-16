@@ -46,6 +46,8 @@ const Show = function (name, genre, network) {
 
 const westworld = new Show("WestWorld", "Sci - Fi", "HBO");
 
+console.log(westworld)
+
 // Principle 4
 
 // code example for Explicit Binding
